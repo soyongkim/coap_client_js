@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "coap": "^0.22.0"
+    "coap": "^0.22.0",
+    "shortid": "^2.2.12"
   }
 }
